@@ -2,4 +2,4 @@ This is a landing page for Art Gallery. This project is developed according to t
 
 The landing page is deployed on GitHub Pages and can be viewed here: [DEMO LINK](https://Sbavdik.github.io/THE-MET-landing/)
 
-Have a great day!
+Have a nice day!
