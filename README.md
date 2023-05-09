@@ -2,6 +2,6 @@ This is a landing page for Art Gallery. This project is developed according to t
 
 The landing page is deployed on GitHub Pages and can be viewed here: [DEMO LINK](https://Sbavdik.github.io/THE-MET-landing/)
 
-The design [Design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?type=design&node-id=8590-29)
+The design: [Design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?type=design&node-id=8590-29)
 
 Have a nice day!
